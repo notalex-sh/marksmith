@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="public/logo.png" alt="Marksmith logo" width="120" />
+</p>
+
 # Marksmith
 
 A client-side web app for building, organizing, and exporting browser bookmarks.
