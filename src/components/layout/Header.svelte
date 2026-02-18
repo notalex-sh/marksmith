@@ -6,6 +6,7 @@
 </script>
 
 <header class="flex h-10 shrink-0 items-center gap-2.5 border-b border-border bg-surface px-3 anim-fade-in-down">
+  <img src="/logo-28.png" alt="Marksmith" class="h-5 w-5" />
   <h1 class="text-xs font-bold tracking-tight whitespace-nowrap text-text">marksmith</h1>
 
   <span class="text-text-tertiary">/</span>
